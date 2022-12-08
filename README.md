@@ -1,4 +1,7 @@
 # Automated-Speech-Therapy
+
+Course Project for the course PHN-314: Microprocessors and Peripheral Devices at IIT Roorkee
+
 An ingenious and cost effective model for automated speech therapy with the 8085 microprocessor as its backbone
 
 View my video [here](https://www.youtube.com/watch?v=MREFOnZrxYo)
